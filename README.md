@@ -55,6 +55,13 @@ This is a fully functional game with user-friendly controls, a visually engaging
 
 ---
 
+## Screenshots
+![startup](screenshots/startup.png)
+![gameOver](screenshots/game-over.png)
+![won](screenshots/won.png)
+
+---
+
 ## 🛠 Technologies Used
 
 - **Language**: Java  
